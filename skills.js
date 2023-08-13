@@ -1,3 +1,3 @@
-function calculateNumber(a, b) {
-  return Math.round(a) + Math.round(b);
+function calculateNumbers(value1, value2) {
+    return value1 + value2;
 }
