@@ -1,4 +1,4 @@
-// Create a web server
+// Create web server
 // 1. npm init -y
 // 2. npm i express
 // 3. npm i -D nodemon
