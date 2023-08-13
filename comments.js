@@ -65,5 +65,3 @@ app.get('/comments/:id', (req, res) => {
     }
     res.send(comment);
 });
-
-app.get('/comments/:id/replies', (req, res))
